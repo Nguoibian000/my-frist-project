@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>GIỚI THIỆU BẢN THÂN</title>
+        
+        <style>
+.paper {
+    background-color: white;
+    border-radius: 15px;
+    max-width: 700px;
+    width: 100%;
+    margin: 30px auto;
+    padding: 20px;
+    font-size: 1.1em;
+}
+</style>
+
+    </head>
+    <body>
+        
+        <div class="paper">
+        
+        <center>
+    <h1><b><font color="blue" size="5">GIỚI THIỆU BẢN THÂN</font></b></h1>
+</center>
+        
+        <table width="100%">
+    <tr>
+        <td valign="top" width="160">
+            <img src="./images/anhtribui.jpg" width="150">
+        </td>
+        <td valign="top"> 
+            <p><b>Họ và tên: Bùi&nbsp;Nguyễn&nbsp;Anh&nbsp;Trí</p>
+            <p>Lớp: 12A1</p>
+            <p>Sở thích: Nghe nhạc</p>         <p>Nghền&nbsp;nghiệp:học&nbsp;sinh&nbsp;trường&nbsp;THPT Trung Lập</p>
+        </td>
+    </tr>
+</table>
+
+<h2 align="left"><i>Nhạc và video yêu thích</i></h2>
+
+        <audio controls>
+        <source src="./media/nhac.mp3" type="audio/mpeg"/>
+        </audio>
+        
+        <video controls width="320">
+    <source src="./media/video.mp4" type="video/mp4">
+    Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+<h3 align="left"><b><i>Các trang wed yêu thích</i></b></h3>
+
+<a href="https://www.google.com" target="_blank">Google</a>
+
+<br><a href="https://vn.yamaha.com/" target="_blank">YAMAHA MUSIC VN</a>
+
+</div>
+
+    </body>
+</html>
